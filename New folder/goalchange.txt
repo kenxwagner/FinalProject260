@@ -1,0 +1,2 @@
+# Windows image file caches
+Intention is to drop C++ demo and use Java, V#, Pyton, and Scala.
